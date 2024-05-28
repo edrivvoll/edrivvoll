@@ -1,7 +1,11 @@
-## Hi there 👋
+## Hi there 👋. I'm Espen.
 
 - 🌱 I'm currently studying to be a front-end developer.
-- 🔭 I'm currently working on several projects.
+- 🔭 I'm currently working on something cool.
+
+### Languages and Tools
+
+<img src="https://skillicons.dev/icons?i=html,css,js,github,wordpress,figma&perline=15" alt="Tech Stack" /> 
 
 <!--
 **edrivvoll/edrivvoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
