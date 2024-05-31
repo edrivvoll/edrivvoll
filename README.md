@@ -5,7 +5,7 @@
 
 ### Languages and Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,github,wordpress,figma&perline=15" alt="Tech Stack" /> 
+<img src="https://skillicons.dev/icons?i=html,css,js,github,wordpress,figma&perline=15" alt="Languages and Tools" /> 
 
 <!--
 **edrivvoll/edrivvoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
