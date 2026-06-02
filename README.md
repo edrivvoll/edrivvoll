@@ -1,23 +1,34 @@
-## Hi there 👋. I'm Espen.
+# Hi, I'm Espen 👋
 
-- 🌱 I'm currently studying to be a front-end developer.
-- 🔭 I'm currently working on something cool.
+I'm a front-end developer based in Norway, currently wrapping up a 4-year part-time study in Front-End Development at [Noroff](https://www.noroff.no/).
 
-### Languages and Tools
+## About Me
 
-<img src="https://skillicons.dev/icons?i=html,css,js,github,wordpress,figma&perline=15" alt="Languages and Tools" /> 
+Over the past four years I've built up a solid foundation in modern front-end development — from structured HTML and CSS all the way to React applications with REST API integration. I enjoy building clean, user-friendly interfaces and writing code that is easy to read and maintain.
 
-<!--
-**edrivvoll/edrivvoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Finishing a 4-year part-time Front-End Development programme at Noroff
+- 💻 Focused on React, JavaScript, and responsive design
+- 🌱 Always learning and improving
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I'm currently working on several projects.
-- 🌱 I'm currently studying to be a front-end developer.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**
+- HTML, CSS / SCSS, JavaScript
+
+**Frameworks & Libraries**
+- React, React Router, Bootstrap 5, React Bootstrap, Zustand
+
+**Tools**
+- Vite, Git, GitHub, Netlify, Prettier
+
+## Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Holidaze](https://github.com/edrivvoll/project-exam-2) | Holiday venue booking app — Project Exam 2 | React, Vite, Bootstrap |
+| [JSF Course Assignment](https://github.com/edrivvoll/javascript-frameworks-ca) | Online store with cart and checkout | React, Zustand, Bootstrap |
+| [Auction House](https://github.com/edrivvoll/semester-project-2) | Online auction platform — Semester Project 2 | Vanilla JS, SCSS, Bootstrap |
+
+## Contact
+
+📧 [espendr@outlook.com](mailto:espendr@outlook.com)
